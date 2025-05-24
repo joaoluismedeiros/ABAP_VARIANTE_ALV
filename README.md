@@ -18,6 +18,9 @@ O foco principal é o uso da função de variantes de layout integradas à tela 
 2. Execute o programa `ZPJLM_MVC_LAYOUT_ALV`.
 3. Preencha os filtros desejados e selecione uma **variante de layout ALV** (se disponível).
 4. O resultado será exibido em um **ALV Grid interativo**, com a variante aplicada.
+![image](https://github.com/user-attachments/assets/1a1b944f-778a-4f30-af49-d4007bf24138)
+![image](https://github.com/user-attachments/assets/1755181f-a12a-48e0-8608-dd72e6ca76fd)
+
 
 ## 📌 Observações
 
