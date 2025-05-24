@@ -1,0 +1,7 @@
+JOAO         K CCQ        1   0   6   0   0   0   0   0   0   6  731   .  0   0   0   0   0 100
+#A
+#/1/                          A   G   D   -   R   -   T   -   Z RELE EX.  _   _   _   _   _ CLI
+CCD f 0000 20250524004050 srv-linux13       ccdadm
+CCD e 0000 20250524004054 srv-linux13       ccdadm
+CCQ < 0000 20250524004100 srv-linux13       ccdadm
+CCD E 0000 20250524004100 srv-linux13       ccdadm
